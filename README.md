@@ -1,6 +1,6 @@
 
 
-<p align="center">This is A Fork Of The Prism Launcher and is Not <a href="https://www.github.com/PrismLauncher/PrismLauncher">The Oirignal Repo</a></p>
+<p align="center">This is A Fork Of The Prism Launcher and its NOT <a href="https://www.github.com/PrismLauncher/PrismLauncher">The Orignal Repository</a></p>
 
 <p align="center">
   Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
